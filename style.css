@@ -1,0 +1,32 @@
+* {
+    font-family: "Courier New", "Times New Roman", sans-serif;
+    font-size: 20px;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    color: black;
+    background-color: rgba(240, 66, 23, 0.342);
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+h2 {
+    display: inline-block;
+    block-size: 24px;
+    margin-block: auto;
+    background-color: rgba(248, 34, 77, 0.438);
+}
+
+ul {
+    font-size: 20px;
+}
+
+img {
+    height: 500px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
